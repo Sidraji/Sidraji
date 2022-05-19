@@ -7,5 +7,5 @@
 <!---
 Sidraji/Sidraji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->workinghttps:https://github.com/aju001/Ajuser
+--->workinghttps:https://github.com/aju001/sidraqueen
 Devil 👿 
